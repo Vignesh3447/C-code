@@ -11,8 +11,9 @@ int main()
 
     printf("%p \n",&a);
     printf("%p \n",p);
+
     printf("%d \n",*p);
-    printf("%p \n",&p);
+    printf("%u \n",&p);
     printf("%p \n",w);
     printf("%d \n",**w);
     printf("%p \n",q);
