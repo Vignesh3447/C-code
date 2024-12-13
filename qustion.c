@@ -2,7 +2,7 @@
 
 int main ()
 {
-    int a[]={1,3,5,10,20};
+    int a[]={1,3,5,10,20,30};
     int k=a[0];
 
     int len=sizeof(a)/sizeof(a[0]);
